@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 📚 I'm a Sophomore CSE Student at **RCC Institute of Information Technology**.
+- 📚 I'm a CS Pre-Final Year Student at **RCC Institute of Information Technology**.
 - 🌱 I’m currently working on **Machine Learning and Deep Learning** domain.
 - 👯 I’m looking for Internships .  
 - 🔭 I’m currently learning everything about **Artificial Intelligence** 😅
